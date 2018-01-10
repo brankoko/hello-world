@@ -1,2 +1,2 @@
 # hello-world
-Just to learn basics
+Just to be different
